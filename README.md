@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on game development, programming, design.
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# and Unity
+
 
 
